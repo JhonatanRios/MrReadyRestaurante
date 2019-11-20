@@ -1,0 +1,30 @@
+body {
+
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background-color: black;
+    
+    .menu {
+        width: 20%;
+        height: 100%;
+        background-color: aquamarine;
+    }
+    .contenido {
+        .header {
+
+        }
+        .listaPedidos {
+
+        }
+    }
+
+}
